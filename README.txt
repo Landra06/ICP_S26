@@ -3,3 +3,5 @@ Hello, world! This is the git repository for Introductory Computational Physics,
 Introduce yourself!
 
 Hello! My name is Cole.
+
+Jeremy Lusk
